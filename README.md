@@ -12,7 +12,7 @@ https://bitbucket.org/padavan/rt-n56u
 
 3. 编辑trunk目录下的.config，修改语言配置项
 
-CONFIG_FIRMWARE_INCLUDE_LANG_CN=y
+ CONFIG_FIRMWARE_INCLUDE_LANG_CN=y
 
 4. 编译项目
 
