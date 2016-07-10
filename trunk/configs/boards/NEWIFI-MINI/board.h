@@ -1,11 +1,11 @@
-/* ASUS RT-AC54U */
+/* Lenovo NEWIFI-MINI */
 
-#define BOARD_PID		"RT-AC54U"
-#define BOARD_NAME		"Newifi-mini"
-#define BOARD_DESC		"Newifi-mini Wireless Router"
-#define BOARD_VENDOR_NAME	"ASUSTek Computer Inc."
-#define BOARD_VENDOR_URL	"http://www.asus.com/"
-#define BOARD_MODEL_URL		"http://www.asus.com/Networking/RTAC54U/"
+#define BOARD_PID		"NEWIFI-MINI"
+#define BOARD_NAME		"NEWIFI-MINI"
+#define BOARD_DESC		"NEWIFI-MINI Wireless Router"
+#define BOARD_VENDOR_NAME	"Lenovo(Beijing) Limited"
+#define BOARD_VENDOR_URL	"http://www.newifi.com/"
+#define BOARD_MODEL_URL		"http://www.newifi.com/product_newifi_mini.shtml"
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
 #undef BOARD_GPIO_BTN_RESET

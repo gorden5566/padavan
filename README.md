@@ -16,11 +16,11 @@ https://bitbucket.org/padavan/rt-n56u
 
  默认 `DESTDIR=~/github/rt-n56u`
 
-2. 执行install.sh将文件复制到原项目中
+2. 执行install.sh将文件复制到你的项目中
 
  `sh install.sh`
 
-3. 编辑trunk目录下的.config，修改语言配置项
+3. 编辑你的项目trunk目录下的.config，修改语言配置项
 
  `CONFIG_FIRMWARE_INCLUDE_LANG_CN=y`
 

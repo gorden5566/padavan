@@ -1,11 +1,8 @@
 ##################################################################
 # Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# RT-AC54U  # ASUS RT-AC54U    # MT7620  #
+# NEWIFI-D1 # LENOVO NEWIFI D1  # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_AC54U -DVENDOR_ASUS
-BOARD_NUM_USB_PORTS=1
-NETFILTER_FP_SMB=y
-BRIDGE_IGMP_EVENT_HOOK=n
-RALINK_GPIO_LED_USB2=n
+CFLAGS += -DBOARD_NEWIFID1 -DVENDOR_LENOVO
+BOARD_NUM_USB_PORTS=2

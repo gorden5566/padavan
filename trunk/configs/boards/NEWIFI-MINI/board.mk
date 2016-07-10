@@ -1,7 +1,7 @@
 ##################################################################
 # Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# newifi-mini # Lenovo newifi-mini # MT7620  #
+# NEWIFI-MINI # Lenovo NEWIFI-MINI # MT7620  #
 ##################################################################
 
 CFLAGS += -DBOARD_NEWIFIMINI
