@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # DESTDIR is your target project's dir
-DESTDIR=~/github/rt-n56u
+DESTDIR=~/bitbucket/rt-n56u
 
 ROOTDIR=`pwd`
 
@@ -12,8 +12,8 @@ fi
 
 echo "-------------COPY-FILES---------------"
 
-if [ -d "$ROOTDIR/trunk/user/www" ] ; then
-	cp -fRv "$ROOTDIR/trunk/user/www" "$DESTDIR/trunk/user"
+if [ -d "$ROOTDIR/trunk/user/" ] ; then
+	cp -fRv "$ROOTDIR/trunk/user/" "$DESTDIR/trunk/"
 fi
 
 echo "-------------COPY-END---------------"
