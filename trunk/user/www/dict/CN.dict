@@ -1141,7 +1141,7 @@ FW_desc2=打开<a href="ZVDWURLVZ" target="blank">ASUS RT-N56U固件定制网站
 FW_desc3=下载最新版本的固件。
 FW_desc4=在[固件文件]选项中选择已下载的固件。
 FW_desc5=点击[上传]将文件上传到路由器。
-FW_desc6=系统会对固件进行检查，然后开始升级。升级需要大约2-3分钟时间，结束后系统将自动重启。
+FW_desc6=上传完成后，系统会对固件进行检查然后升级。升级需要大约2-3分钟时间，结束后系统将自动重启。
 FW_item1=产品型号:
 FW_item2=固件版本:
 FW_item3=Bootloader版本:
