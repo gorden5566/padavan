@@ -1,6 +1,18 @@
 # padavan
 padavan汉化文件
 
+提供部分型号固件下载，仅供测试，下载地址如下
+
+ 链接: http://pan.baidu.com/s/1o8jLp9o 密码: 4y9d
+
+- 联想newifi mini(NEWIFI-MINI)
+
+- 联想newifi2(NEWIFI-D1)
+
+- 优酷路由宝L1(YK-L1)
+
+- ...
+
 ##一、padavan项目地址
 https://bitbucket.org/padavan/rt-n56u
 
