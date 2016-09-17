@@ -485,6 +485,7 @@ CustomConf=自定义配置文件
 UserScripts=自定义脚本
 RunPreStart=在路由器初始化前执行:
 RunPostStart=在路由器启动后执行:
+RunShutdown=在路由器关闭前执行:
 RunPostWAN=在WAN上行/下行启动后执行:
 RunPostFWL=在防火墙规则启动后执行:
 RunEzBtns=在按下WPS/FN按钮时执行:
