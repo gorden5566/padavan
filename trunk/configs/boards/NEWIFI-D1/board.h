@@ -12,13 +12,13 @@
 #define BOARD_GPIO_BTN_WPS	18
 #undef  BOARD_GPIO_LED_ALL
 #undef  BOARD_GPIO_LED_WIFI
-#undef BOARD_GPIO_LED_SW2G		/* soft led */
-#undef BOARD_GPIO_LED_SW5G		/* soft led */
-#undef BOARD_GPIO_LED_POWER
+#define BOARD_GPIO_LED_SW2G	16	/* soft led */
+#define BOARD_GPIO_LED_SW5G	13	/* soft led */
+#define BOARD_GPIO_LED_POWER	14
 #undef BOARD_GPIO_LED_LAN
 #undef BOARD_GPIO_LED_WAN
 #undef BOARD_GPIO_LED_USB
-#define  BOARD_GPIO_LED_ROUTER	16
+#undef BOARD_GPIO_LED_ROUTER
 #define  BOARD_GPIO_PWR_USB		11
 #define  BOARD_GPIO_PWR_USB2	9
 #define  BOARD_GPIO_PWR_USB_ON	1
