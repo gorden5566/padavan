@@ -4,5 +4,5 @@
 # RT-AC1200HP # ASUS RT-AC1200HP  # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_AC1200HP -DVENDOR_ASUS
+CFLAGS += -DBOARD_NEWIFI1S -DVENDOR_LENOVO
 BOARD_NUM_USB_PORTS=3
