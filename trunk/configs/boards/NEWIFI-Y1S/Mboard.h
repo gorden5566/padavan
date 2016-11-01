@@ -1,4 +1,4 @@
-/* ASUS RT-AC1200HP */
+/* NEWIFI Y1S */
 
 #define BOARD_PID		"NEWIFI-Y1S"
 #define BOARD_NAME		"NEWIFI-Y1S"
