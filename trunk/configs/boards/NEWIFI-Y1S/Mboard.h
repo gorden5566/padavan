@@ -1,11 +1,11 @@
 /* ASUS RT-AC1200HP */
 
-#define BOARD_PID		"RT-AC1200HP"
-#define BOARD_NAME		"RT-AC1200HP"
-#define BOARD_DESC		"ASUS RT-AC1200HP Wireless Router"
-#define BOARD_VENDOR_NAME	"ASUSTek Computer Inc."
-#define BOARD_VENDOR_URL	"http://www.asus.com/"
-#define BOARD_MODEL_URL		"http://www.asus.com/Networking/RTAC1200HP/"
+#define BOARD_PID		"NEWIFI-Y1S"
+#define BOARD_NAME		"NEWIFI-Y1S"
+#define BOARD_DESC		"NEWIFI Y1S Wireless Router"
+#define BOARD_VENDOR_NAME	"Lenovo(Beijing) Limited"
+#define BOARD_VENDOR_URL	"http://www.newifi.com/"
+#define BOARD_MODEL_URL		"http://www.newifi.com/product_newifi1.shtml"
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
 #undef  BOARD_GPIO_BTN_RESET
