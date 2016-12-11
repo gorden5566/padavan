@@ -11,7 +11,7 @@ padavan汉化文件
 
 - 优酷路由宝L1(YK-L1)
 
-- ...
+- 斐讯K2(PSG1218)
 
 ##一、padavan项目地址
 https://bitbucket.org/padavan/rt-n56u
