@@ -1,9 +1,23 @@
 # padavan
 padavan汉化文件
 
-提供部分型号固件下载，仅供测试，下载地址如下
+提供部分路由器固件下载（不定期更新，仅供测试），欢迎反馈或提出更好的建议。下载地址如下
 
  链接: http://pan.baidu.com/s/1o8jLp9o 密码: 4y9d
+
+##一、padavan项目地址
+
+项目地址: https://bitbucket.org/padavan/rt-n56u
+
+oschina镜像（不定期同步）: https://git.oschina.net/gorden5566/rt-n56u
+
+##二、文件说明
+
+1. 保持原项目目录结构
+
+2. 添加汉化文件
+
+3. 添加部分路由器适配文件
 
 - 联想newifi mini(NEWIFI-MINI)
 
@@ -12,17 +26,6 @@ padavan汉化文件
 - 优酷路由宝L1(YK-L1)
 
 - 斐讯K2(PSG1218)
-
-##一、padavan项目地址
-https://bitbucket.org/padavan/rt-n56u
-
-##二、文件说明
-
-1. 目录结构同原项目目录结构
-
-2. 添加中文语言文件，修复页面显示问题
-
-3. 添加部分机型适配文件
 
 ##二、汉化文件使用方法
 
@@ -40,13 +43,13 @@ https://bitbucket.org/padavan/rt-n56u
 
 4. 编译项目
 
-##三、机型适配文件说明
+##三、路由器适配文件说明
 
-1. 机型适配文件位于`padavan/trunk/configs/boards`目录下，每个文件夹对应一个机型，需手动将所需机型适配文件复制到项目对应文件夹下
+1. 路由器适配文件位于`padavan/trunk/configs/boards`目录下，每个文件夹对应一款路由器。注：需手动将路由器适配文件复制到你的项目对应目录下
 
-2. 编辑你的项目trunk目录下的.config，修改对应配置
+2. 编辑你的项目trunk目录下的.config，修改路由器型号相关配置
  
- 例如：编译newifi d1固件的配置
+ 例如：newifi d1的配置
 
  `CONFIG_PRODUCT=MT7621`
  
