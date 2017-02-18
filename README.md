@@ -54,3 +54,5 @@ oschina镜像（不定期同步）: https://git.oschina.net/gorden5566/rt-n56u
  `CONFIG_PRODUCT=MT7621`
  
  `CONFIG_FIRMWARE_PRODUCT_ID="NEWIFI-D1"`
+
+![image](https://github.com/gorden5566/padavan/raw/screenshot/screenshot/index.png)
