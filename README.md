@@ -5,13 +5,13 @@ padavan汉化文件
 
  链接: http://pan.baidu.com/s/1o8jLp9o 密码: 4y9d
 
-##一、padavan项目地址
+## 一、padavan项目地址
 
 项目地址: https://bitbucket.org/padavan/rt-n56u
 
 oschina镜像（不定期同步）: https://git.oschina.net/gorden5566/rt-n56u
 
-##二、文件说明
+## 二、文件说明
 
 1. 保持原项目目录结构
 
@@ -27,7 +27,7 @@ oschina镜像（不定期同步）: https://git.oschina.net/gorden5566/rt-n56u
 
 - 斐讯K2(PSG1218)
 
-##二、汉化文件使用方法
+## 三、汉化文件使用方法
 
 1. 编辑install.sh，修改DESTDIR为你的项目目录
 
@@ -43,7 +43,7 @@ oschina镜像（不定期同步）: https://git.oschina.net/gorden5566/rt-n56u
 
 4. 编译项目
 
-##三、路由器适配文件说明
+## 四、路由器适配文件说明
 
 1. 路由器适配文件位于`padavan/trunk/configs/boards`目录下，每个文件夹对应一款路由器。注：需手动将路由器适配文件复制到你的项目对应目录下
 
