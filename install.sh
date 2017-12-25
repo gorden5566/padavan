@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # DESTDIR is your target project's dir
-DESTDIR=~/bitbucket/rt-n56u
+DESTDIR=/opt/rt-n56u
 
 ROOTDIR=`pwd`
 
