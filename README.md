@@ -96,7 +96,7 @@ sudo ./build_toolchain
 
 ### 配置修改
 
-1. 手动编辑 `/opt/rt-n56u/trunk/.config`
+1. 方法一： 手动编辑 `/opt/rt-n56u/trunk/.config`
 
 修改路由器型号相关配置(例如 NEWIFI-D1)
 ```
@@ -113,7 +113,7 @@ CONFIG_FIRMWARE_PRODUCT_ID="NEWIFI-D1"
 CONFIG_FIRMWARE_INCLUDE_LANG_CN=y
 ```
 
-2. 直接使用编辑好的配置文件
+2. 方法二： 直接使用编辑好的配置文件
 
 ``` bash
 cd /opt/rt-n56u/trunk/
