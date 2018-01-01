@@ -3,7 +3,7 @@ padavan 中文
 
 简体中文 & 路由器适配
 
-[![GitHub release](https://img.shields.io/github/release/gorden5566/padavan.svg)]()
+[![GitHub release](https://img.shields.io/github/release/gorden5566/padavan.svg)](https://github.com/gorden5566/padavan/releases)
 
 ------
 
