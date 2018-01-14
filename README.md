@@ -148,3 +148,7 @@ sudo ./build_firmware
         │   └── CN.dict ---简体中文语言文件
         └── Makefile
 ```
+
+## 贡献列表
+
+详见 [contributors](https://github.com/gorden5566/padavan/graphs/contributors)
