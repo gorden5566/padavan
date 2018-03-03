@@ -7,7 +7,7 @@ padavan 中文
 
 ------
 
-padavan 是一个优秀的路由器固件，支持 MT7620、MT7621 等多个 MTK 系列的路由器
+padavan 是一个优秀的路由器固件，支持采用 RT3883/MT7620/MT7621/MT7628 等系列 CPU 的路由器
 
 ## 说明
 
@@ -17,11 +17,15 @@ padavan 是一个优秀的路由器固件，支持 MT7620、MT7621 等多个 MTK
 
 已适配的路由器型号如下：
 
-- 联想newifi mini (NEWIFI-MINI)
-- 联想newifi2 (NEWIFI-D1)
-- 联想newifi y1s (NEWIFI-Y1S)
-- 优酷路由宝L1 (YK-L1)
-- 斐讯K2 (PSG1218)
+- 联想 newifi mini (NEWIFI-MINI)
+
+- 联想 newifi2 (NEWIFI-D1)
+
+- 联想 newifi y1s (NEWIFI-Y1S)
+
+- 优酷路由宝 L1 (YK-L1)
+
+- 斐讯 K2 (PSG1218)
 
 ------
 
@@ -96,7 +100,7 @@ sudo ./build_toolchain
 
 ### 配置修改
 
-1. 方法一： 手动编辑 `/opt/rt-n56u/trunk/.config`
+#### 方法一： 手动编辑 `/opt/rt-n56u/trunk/.config`
 
 修改路由器型号相关配置(例如 NEWIFI-D1)
 ```
@@ -113,7 +117,7 @@ CONFIG_FIRMWARE_PRODUCT_ID="NEWIFI-D1"
 CONFIG_FIRMWARE_INCLUDE_LANG_CN=y
 ```
 
-2. 方法二： 直接使用编辑好的配置文件
+#### 方法二： 使用编辑好的配置文件
 
 ``` bash
 cd /opt/rt-n56u/trunk/
@@ -140,7 +144,7 @@ sudo ./build_firmware
 │   │       ├── kernel-3.4.x.config
 │   │       └── libc.config -> ../uclibc-mipsel.config
 │   └── templates
-│       ├── newifi_d1_base.config ---newfi-d1简版配置
+│       ├── newifi_d1_base.config ---newifi-d1简版配置
 │       └── newifi_d1_full.config ---newifi-d1完整版配置
 └── user
     └── www
