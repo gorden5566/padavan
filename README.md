@@ -1,7 +1,4 @@
 padavan 中文
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 =====
 
 简体中文 & 路由器适配
@@ -160,14 +157,6 @@ sudo ./build_firmware
 
 详见 [contributors](https://github.com/gorden5566/padavan/graphs/contributors)
 
-## 关注趋势
-
-[![Stargazers over time](https://starchart.cc/gorden5566/padavan.svg)](https://starchart.cc/gorden5566/padavan)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -182,4 +171,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## 关注趋势
+
+[![Stargazers over time](https://starchart.cc/gorden5566/padavan.svg)](https://starchart.cc/gorden5566/padavan)
