@@ -156,3 +156,7 @@ sudo ./build_firmware
 ## 贡献列表
 
 详见 [contributors](https://github.com/gorden5566/padavan/graphs/contributors)
+
+## 关注趋势
+
+[![Stargazers over time](https://starchart.cc/gorden5566/padavan.svg)](https://starchart.cc/gorden5566/padavan)
