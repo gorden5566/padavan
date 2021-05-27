@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gorden5566",
+      "name": "gorden5566",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5310625?v=4",
+      "profile": "https://gorden5566.com/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "padavan",
+  "projectOwner": "gorden5566",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
