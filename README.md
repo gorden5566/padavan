@@ -163,6 +163,7 @@ sudo ./build_firmware
 <table>
   <tr>
     <td align="center"><a href="https://gorden5566.com/"><img src="https://avatars.githubusercontent.com/u/5310625?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gorden5566</b></sub></a><br /><a href="https://github.com/gorden5566/padavan/commits?author=gorden5566" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.dfki.de/en/web/about-us/employee/person/hoxu01/"><img src="https://avatars.githubusercontent.com/u/12478523?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hongfei Xu</b></sub></a><br /><a href="https://github.com/gorden5566/padavan/commits?author=hfxunlp" title="Code">💻</a></td>
   </tr>
 </table>
 
